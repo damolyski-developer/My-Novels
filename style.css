@@ -1,0 +1,22 @@
+body {
+background-color:gold;
+ }
+h1{text-align:center;
+background-color:papayawhip;
+color: goldenrod;
+border: solid 4px gold;
+border-radius:51px;
+padding:25px;}
+div {
+text-align: center;
+border:solid goldenrod ;
+border-radius:25px; }
+a {text-decoration:none ;
+color: goldenrod ;
+}
+button {
+border: solid 1px lightgreen;
+border-radius:3px; 
+padding:5px;
+background-color: lightgreen;
+color:yellow;}
